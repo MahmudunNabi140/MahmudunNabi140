@@ -176,7 +176,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudunNabi140al-mamun-devops&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudunNabi140&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 
