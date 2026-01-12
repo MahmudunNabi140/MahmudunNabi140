@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Md.Mahmudun nabi</h1>
 <h3 align="center">Full Stack Software Engineer | PHP | Laravel | Vue.js | React native | HTML |CSS|JavaScript </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmudunNabi140&label=Profile%20views&color=0e75b6&style=flat" alt="MahmudunNabi140" />
+  <img src="https://komarev.com/ghpvc/?username=MahmudunNabi140&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamun-devops" />
 </p>
-
 <p align="center">
   <a href="mailto:mahmudunnabi140@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,6 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
@@ -45,7 +45,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🖥️ Programming Languages & Core Tech
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="40" alt="PHP" />
   <img width="12" />
@@ -57,7 +56,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### ⚙️ Backend Frameworks & Platforms
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" height="40" alt="Laravel" />
   <img width="12" />
@@ -75,7 +73,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🎨 Frontend Libraries & Frameworks
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" height="40" alt="Vue.js" />
   <img width="12" />
@@ -95,7 +92,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 💅 CSS Frameworks & UI Toolkits
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="40" alt="Bootstrap" />
   <img width="12" />
@@ -105,7 +101,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🗄️ Databases
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" alt="MySQL" />
   <img width="12" />
@@ -123,7 +118,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### ☁️ DevOps, Hosting & Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="40" alt="Docker" />
   <img width="12" />
@@ -151,7 +145,6 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🧮 Operating Systems & Server Tech
-
 <div align="left">
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40" alt="Linux" />
   <img width="12" /> -->
@@ -170,17 +163,20 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&short_numbers=true%22%20alt=%22GitHub%20Streak" height="180px" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" />
 </p>
 
+
 ---
 
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudunNabi140&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-mamun-devops&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
+
+
