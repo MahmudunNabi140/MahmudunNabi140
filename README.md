@@ -161,14 +161,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmudunNabi140)](https://git.io/streak-stats)
 
 
 ---
