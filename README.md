@@ -168,13 +168,18 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MahmudunNabi140&short_numbers=true" alt="GitHub Streak" /></a>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px"/>
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" /> -->
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" />
+</p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark" />
+
 
 ---
 
