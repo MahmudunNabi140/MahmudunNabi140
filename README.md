@@ -4,35 +4,34 @@
   <img src="https://komarev.com/ghpvc/?username=al-mamun-devops&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamun-devops" />
 </p>
 <p align="center">
-  <a href="mailto:al.mamun.devops@gmail.com" title="Email">
+  <a href="mailto:mahmudunnabi140@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801612423280" title="Whatsapp">
+  <a href="https://wa.me/8801759526830" title="Whatsapp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://facebook.com/al.mamun.devops" title="Facebook">
+  <a href="https://www.facebook.com/mahamudun.nabi.779" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/al-mamun-devops" title="Github">
+  <a href="https://github.com/MahmudunNabi140" title="Github">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/al-mamun-devops/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mahmud-un-nabi-9b6302257/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm **Md Al-Mamun**, a dedicated Full Stack Software Engineer with **5+ years** of hands-on experience building production-grade web applications.
+I'm **Md Mahmudun Nabi**, a dedicated Full Stack Software Engineer with **2+ years** of hands-on experience building production-grade web applications.
 
 - 🔧 Specialized in **Laravel**, **PHP**, and robust **RESTful API** development
-- 🧠 Proficient in **Vue.js**, **React**, **Next.js**, and **Nuxt.js** for rich front-end interfaces
-- 🛠 Skilled in **MySQL**, **MongoDB**, and backend architecture optimization
+- 🧠 Proficient in **Vue.js**, **Reactnative**, **Javascript** for rich front-end interfaces
+- 🛠 Skilled in **MySQL**, and backend architecture optimization
 - ✅ Experienced with **unit testing**, **mock databases**, and **agile workflows**
-- 🤝 Strong background in **team collaboration**, **code reviews**, and **mentorship**
+- 🤝 Strong background in **team collaboration**, **code reviews**
 
 I strive for **performance**, **clean code**, and **user-focused solutions** in every project I build.
 
@@ -40,11 +39,12 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 ### 🚀 Tech Stack Overview
 
-> My professional toolkit includes a robust combination of backend frameworks, frontend libraries, databases, DevOps tools, operating systems, and other utilities gained from 5+ years of experience.
+> My professional toolkit includes a robust combination of backend frameworks, frontend libraries, databases, DevOps tools, operating systems, and other utilities gained from 2+ years of experience.
 
 ---
 
 #### 🖥️ Programming Languages & Core Tech
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="40" alt="PHP" />
   <img width="12" />
@@ -56,34 +56,36 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### ⚙️ Backend Frameworks & Platforms
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" height="40" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" title="CakePHP" height="40" alt="CakePHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" title="Zend Framework" height="40" alt="Zend" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" title="Zend Framework" height="40" alt="Zend" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" title="Yii Framework" height="40" alt="Yii" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="40" alt="Express.js" /> -->
 </div>
 
 ---
 
 #### 🎨 Frontend Libraries & Frameworks
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" height="40" alt="Vue.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" height="40" alt="Vuetify" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" height="40" alt="Vuetify" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" height="40" alt="React.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="40" alt="Next.js" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="40" alt="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" height="40" alt="Nuxt.js" />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" height="40" alt="AngularJS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" height="40" alt="jQuery" />
@@ -92,6 +94,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 💅 CSS Frameworks & UI Toolkits
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="40" alt="Bootstrap" />
   <img width="12" />
@@ -101,6 +104,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🗄️ Databases
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" alt="MySQL" />
   <img width="12" />
@@ -118,6 +122,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### ☁️ DevOps, Hosting & Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="40" alt="Docker" />
   <img width="12" />
@@ -145,16 +150,17 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ---
 
 #### 🧮 Operating Systems & Server Tech
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40" alt="Linux" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40" alt="Linux" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" height="40" alt="Ubuntu" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX" height="40" alt="NGINX" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache HTTP Server" height="40" alt="Apache" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/AlmaLinux-23376B?style=flat&logo=linux&logoColor=white" title="AlmaLinux" height="40" alt="AlmaLinux" />
+  <!-- <img src="https://img.shields.io/badge/AlmaLinux-23376B?style=flat&logo=linux&logoColor=white" title="AlmaLinux" height="40" alt="AlmaLinux" /> -->
 </div>
 
 ---
@@ -162,12 +168,12 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-mamun-devops&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-mamun-devops&theme=vue-dark&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mamun-devops&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" />
 </p>
 
 ---
@@ -175,7 +181,5 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-mamun-devops&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudunNabi140&bg_color=1a1a1a&color=ff69b4&line=00ff00&point=00ff00&area=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-
-
