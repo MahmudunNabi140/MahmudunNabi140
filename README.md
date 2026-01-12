@@ -170,7 +170,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&short_numbers=true%22%20alt=%22GitHub%20Streak" height="180px" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
