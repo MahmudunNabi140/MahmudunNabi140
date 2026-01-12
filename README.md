@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Md.Mahmudun nabi</h1>
 <h3 align="center">Full Stack Software Engineer | PHP | Laravel | Vue.js | React native | HTML |CSS|JavaScript </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=al-mamun-devops&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamun-devops" />
+  <img src="https://komarev.com/ghpvc/?username=MahmudunNabi140&label=Profile%20views&color=0e75b6&style=flat" alt="MahmudunNabi140" />
 </p>
+
 <p align="center">
   <a href="mailto:mahmudunnabi140@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -167,10 +168,10 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 ### 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmudunNabi140&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudunNabi140&theme=vue-dark&include_all_commits=true&count_private=true" height="180px"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudunNabi140&layout=compact&theme=vue-dark&langs_count=50&include_all_commits=true&count_private=true" />
