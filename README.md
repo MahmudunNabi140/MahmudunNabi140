@@ -26,7 +26,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm **Md Mahmudun Nabi**, a dedicated Full Stack Software Engineer with **2+ years** of hands-on experience building production-grade web applications.
+I'm **Md Mahmudun Nabi**, a dedicated Full Stack Software Engineer with **3+ years** of hands-on experience building production-grade web applications.
 
 - 🔧 Specialized in **Laravel**, **PHP**, and robust **RESTful API** development
 - 🧠 Proficient in **Vue.js**, **Reactnative**, **Javascript** for rich front-end interfaces
