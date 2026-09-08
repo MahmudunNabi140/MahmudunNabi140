@@ -146,13 +146,11 @@ I strive for **performance, scalability, clean architecture, and user-focused so
 ### 💅 CSS Frameworks & UI Toolkits
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="40" alt="Bootstrap" />
 
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" height="40" alt="Tailwind CSS" />
-
 </div>
 
 ---
